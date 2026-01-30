@@ -91,7 +91,7 @@ git push -u origin main
 
 HTML-Resume-Page-Assignment/
 │── index.html
-│── screenshot.png
+│── screenshot.jpeg
 │── README.md
 
 
